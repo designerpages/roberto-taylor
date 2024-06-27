@@ -1,5 +1,7 @@
 import axios from 'axios';
-import { API_URL } from '@env';
+// import { API_URL } from '@env';
+
+const API_URL = "https://crudcrud.com/api/be44f246669748428a83047bf73d6dc4"
 
 export const getItems = async () => {
   try {
