@@ -25,5 +25,5 @@ A simple and effective CRUD (Create, Read, Update, Delete) app built with Expo, 
    ```
 4. Start the Expo project:
    ```
-   yarn start
+   npm start -cache
    ```
